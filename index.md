@@ -1,4 +1,3 @@
----
-title: Welcome to my blog
----
+# Welcome to my blog!
 
+Feel free to make yourself comfortable here.
